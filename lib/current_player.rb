@@ -32,7 +32,6 @@ end
   elsif turn_count(board).even?
     "X"
   else turn_count(board).even?
->>>>>>> 4a6f63be7778af287f184c0eaced6d0c9e9a5cd3
     "O"
   end
 end
